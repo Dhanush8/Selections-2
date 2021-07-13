@@ -6,7 +6,7 @@ This is a Java Program to input the magnitude of an angle in degrees and output 
 
 1-89: acute angle 
 
-90: right angle 
+90-: right angle 
 
 91-179: obtuse angle 
 
